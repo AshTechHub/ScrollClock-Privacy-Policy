@@ -1,6 +1,6 @@
 # ScrollClock Privacy Policy
 
-Last updated: 7 November 2026
+Last updated: 8 November 2026
 
 ScrollClock ("the app") is an Android app published by AshMade ("I", "me"). It counts the Instagram Reels you scroll through each day and shows you the number, together with the time you spend on Reels. This policy explains what the app does with information.
 
@@ -37,7 +37,7 @@ The app stores the following on your phone, in its private storage. We cannot se
 - **Days the counter was running**: a list of dates (no times), used to work out your streaks of days with few reels.
 - **Your daily reel counts**: a date and a number.
 - **Time spent on Reels**: how long the Reels screen was open each day. If you stop swiping for more than three minutes, the extra time is not counted.
-- **Troubleshooting information**: a few timestamps (such as when the service started, when Instagram was last seen, when the Reels screen was last recognised and when the last reel was counted). If the app cannot recognise the Reels screen, it may also keep a short list of the technical names of reel-related screen elements it noticed. This powers the Status and "Reel Counter Disappeared?" help in the Help tab.
+- **Troubleshooting information**: a few timestamps (such as when the service started, when Instagram was last seen, when the Reels screen was last recognised and when the last reel was counted). If the app cannot recognise the Reels screen, it may also keep a short list of the technical names of reel-related screen elements it noticed and the Instagram version that was installed when the Reels screen was last recognised. This powers the Status and "Reel Counter Disappeared?" help in the Help tab.
 - **Settings and small bits of state**: for example whether milestone messages are on, whether vibration on milestones is on, and the date, count and wording of the last milestone message shown (so the same one is not repeated straight away), your chosen pill color.
 - **Your agreement** to the Accessibility notice.
 - **Whether the mascot unlock is active**: a simple yes or no, so the app does not have to wait for the store each time.
